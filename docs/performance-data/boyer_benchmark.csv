@@ -1,0 +1,17 @@
+Algorithm,Size,InputType,Time(ms)
+BoyerMoore,100,Random,1.4465
+BoyerMoore,100,Sorted,0.0167
+BoyerMoore,100,Reverse,0.0145
+BoyerMoore,100,NearlySorted,0.0139
+BoyerMoore,1000,Random,0.144
+BoyerMoore,1000,Sorted,0.1182
+BoyerMoore,1000,Reverse,0.1168
+BoyerMoore,1000,NearlySorted,0.1181
+BoyerMoore,10000,Random,1.3012
+BoyerMoore,10000,Sorted,1.3196
+BoyerMoore,10000,Reverse,1.6663
+BoyerMoore,10000,NearlySorted,0.9386
+BoyerMoore,100000,Random,2.2615
+BoyerMoore,100000,Sorted,2.0466
+BoyerMoore,100000,Reverse,2.1549
+BoyerMoore,100000,NearlySorted,2.2069
